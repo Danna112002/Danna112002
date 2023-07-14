@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anna,
-- 👀 I’m interested in electronics and in IT industry, particurarly, I enjoyed making an project in SystemVerilog, but I'm also found of coding in C, Python and Java.
+- 👀 I’m interested in electronics and in IT industry, particurarly, I enjoyed making a project in SystemVerilog, but I'm also found of coding in C, Python and Java.
 - 🌱 I’m currently studying on Warsaw University of Technology on Electronics faculty.
-- 💞️ I’m looking to collaborate on some project that would let me broad my skills and use them in real life, I would enjoy the most having the experience of working on some project with a team. 
+- 💞️ I’m looking to collaborate on some project that would let me broad my skills and use them in real life, I would enjoy the most having the experience of working on this project with a team. 
 - 📫 How to reach me - I usually respond pretty quickly on messages sent via e-mail: aniadziezyk@gmail.com
 
 <!---
